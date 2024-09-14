@@ -1,0 +1,62 @@
+/* Estilos globales */
+/* html, body {
+    background-color: rgb(253, 225, 225); /* Asegúrate de aplicar el color aquí también */
+
+
+    html,
+    body {
+        background-image: linear-gradient(pink, white, white, white, white, white, white, brown);
+        background-size: 100%;
+    }
+    
+    html {
+        background-color: brown;
+    }
+    
+    header {
+        background-color: brown;
+        width: 100%;
+        height: 80px;
+        display: flex;
+        flex-direction: row;
+    }
+    
+    footer {
+        background-color: brown;
+        width: 100%;
+        height: 100%;
+        text-align: center;
+    }
+    
+    a {
+        font-family: 'Courier New', Courier, monospace;
+        color: pink;
+        text-decoration: underline;
+    }
+    .link{
+        margin-left: 10px;
+    }
+    
+    #foot {
+        color: pink;
+    }
+    
+    .titulo_final {
+        color: pink;
+        font-size: 20px;
+    }
+    
+    .final {
+        color: pink;
+        font-family: 'Courier New', Courier, monospace;
+        font-size: 18px;
+        margin-top: 1px;
+    }
+    
+    #logo{
+        height: 60px;
+        align-items:flex-end;
+        margin-left: 1000px;
+        margin-top: 10px;
+    }
+    
